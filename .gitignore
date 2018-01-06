@@ -97,3 +97,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# mypy
+.mypy_cache/
+.DS_Store
+src/cv_api/db.sqlite3
+3rd Party/darkflow/
+data/images/kids.png
+data/images/man.jpg
+data/images/kids2.png
+3rd Party/darknet/
