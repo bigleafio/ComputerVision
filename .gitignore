@@ -107,3 +107,8 @@ data/images/kids.png
 data/images/man.jpg
 data/images/kids2.png
 3rd Party/darknet/
+*.caffemodel
+Icon
+*.DS_Store
+src/pi/.DS_Store
+*.sqlite3
